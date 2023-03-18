@@ -1,0 +1,4 @@
+ans-slv-1.lxd apache_package=apache2 php_package=libapache2-mod-php
+ans-slv-2.lxd apache_package=apache2 php_package=libapache2-mod-php
+ans-slv-3.lxd apache_package=apache2 php_package=libapache2-mod-php
+almalinux-vm.lxd apache_package=httpd php_package=php
